@@ -1,1 +1,1 @@
-# SyntheticData
+This is a project on a building predictive models for a data set that is generated synthetically. It is a regression problem. The predictive models are built using Python. There is another file that consists of python script to build visualizations using a scripted approach.
